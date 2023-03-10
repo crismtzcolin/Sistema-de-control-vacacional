@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Cristian Martínez Colín and ProgramaLAB
+Main-Class: Bienvenida
+X-COMMENT: Proyecto personal basado en un curso de JAVA
